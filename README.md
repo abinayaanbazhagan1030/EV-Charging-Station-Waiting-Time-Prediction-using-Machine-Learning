@@ -86,9 +86,9 @@ A comparison DataFrame of actual vs. predicted waiting times is generated for th
 
 | Model | R² Score | MSE |
 |---|---|---|
-| Linear Regression | — | — |
-| Ridge Regression | — | — |
-| Random Forest Regressor | — | — |
+| Linear Regression | 0.69 | 0.4353 |
+| Ridge Regression | 0.69 | 0.4353 |
+| Random Forest Regressor | 0.99 | 10.78 |
 
 ## 🚀 How to Run
 1. Clone/download this repository.
